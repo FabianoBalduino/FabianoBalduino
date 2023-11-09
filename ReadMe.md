@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente trabalho com Análise de Dados e Construção de Relatório utilizando Power Bi<br>Tenho estuda PYTHON e estou procurando trabalhar mais com essa linguagem para análise de dados e criação de automações
+Atualmente trabalho com Análise de Dados e Construção de Relatório utilizando Power Bi<br>Tenho estudado PYTHON e estou procurando trabalhar mais com essa linguagem para análise de dados e criação de automações
 
 
 ## 🌐 Socials:
